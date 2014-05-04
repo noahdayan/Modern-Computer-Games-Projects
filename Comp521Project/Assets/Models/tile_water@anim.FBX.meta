@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: e1022e675a6004d7c8e6640550b19309
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Dummy001
+    100002: Dummy002
+    100004: Dummy003
+    100006: Dummy004
+    100008: Dummy005
+    100010: DummyMaster
+    100012: Object001
+    100014: Object002
+    100016: Tile
+    100018: //RootNode
+    400000: Dummy001
+    400002: Dummy002
+    400004: Dummy003
+    400006: Dummy004
+    400008: Dummy005
+    400010: DummyMaster
+    400012: Object001
+    400014: Object002
+    400016: Tile
+    400018: //RootNode
+    2300000: Object001
+    2300002: Tile
+    3300000: Object001
+    3300002: Tile
+    4300000: Tile
+    4300002: Object002
+    4300004: Object001
+    7400000: anim_water
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Object002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: anim_water
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 160
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DummyMaster
+        weight: 1
+      - path: DummyMaster/Dummy001
+        weight: 1
+      - path: DummyMaster/Dummy002
+        weight: 1
+      - path: DummyMaster/Dummy003
+        weight: 1
+      - path: DummyMaster/Dummy004
+        weight: 1
+      - path: DummyMaster/Dummy005
+        weight: 1
+      - path: Object001
+        weight: 1
+      - path: Object002
+        weight: 1
+      - path: Tile
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

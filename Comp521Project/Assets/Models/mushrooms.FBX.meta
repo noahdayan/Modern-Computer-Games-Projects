@@ -1,0 +1,76 @@
+fileFormatVersion: 2
+guid: cb0aaeb33a3144e408f9cda5f6cebb1e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: mushroomF
+    100002: mushroomF001
+    100004: mushroomF002
+    100006: //RootNode
+    400000: mushroomF
+    400002: mushroomF001
+    400004: mushroomF002
+    400006: //RootNode
+    2300000: mushroomF
+    2300002: mushroomF001
+    2300004: mushroomF002
+    3300000: mushroomF
+    3300002: mushroomF001
+    3300004: mushroomF002
+    4300000: mushroomF
+    4300002: mushroomF001
+    4300004: mushroomF002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
